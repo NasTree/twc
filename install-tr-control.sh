@@ -3,7 +3,7 @@
 ARG1="$1"
 ROOT_FOLDER=""
 SCRIPT_NAME="$0"
-SCRIPT_VERSION="1.2.2-beta2"
+SCRIPT_VERSION="1.5.1-update2"
 VERSION=""
 WEB_FOLDER=""
 ORG_INDEX_FILE="index.original.html"
